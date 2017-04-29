@@ -1,0 +1,1 @@
+export const BASE_IMG = 'http://localhost/gotravel/dist/'
